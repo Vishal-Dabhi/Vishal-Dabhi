@@ -10,6 +10,6 @@
 - SQL | Firebase | Git | GitHub
 
 ## 🔗 Links
-- LinkedIn: https://www.linkedin.com/in/vishal-dabhi.
+- LinkedIn: https://www.linkedin.com/in/vishal-dabhi-0bb3ab26a/.
 - 
 
